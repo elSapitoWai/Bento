@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Sapo',
 	imageBackground: false,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: false,
 
 	// Greetings
@@ -139,16 +139,16 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Sapo Turco',
+					link: 'https://music.youtube.com/playlist?list=PLgqKG--Ytzx2T4gYnCv8vhl99rtbR7Uup&feature=share',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'RnB',
+					link: 'https://music.youtube.com/playlist?list=PLgqKG--Ytzx0jZXoMYbg9HKCRgPn1EG1H&feature=share',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Chill',
+					link: 'https://music.youtube.com/playlist?list=PLgqKG--Ytzx3Xavb1eRf6Vq_TOaKftWy6&feature=share',
 				},
 				{
 					name: 'Rock',
