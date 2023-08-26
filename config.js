@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Sapo',
 	imageBackground: false,
-	openInNewTab: false,
+	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://webmail.courvix.com/mail/?_task=mail&_mbox=INBOX',
+			link: 'https://mail.proton.me/u/0/inbox',
 		},
 		{
 			id: '3',
@@ -73,7 +73,7 @@ const CONFIG = {
 			id: '4',
 			name: 'Calendar',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://calendar.proton.me/u/0/',
 		},
 		{
 			id: '5',
